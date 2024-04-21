@@ -1,0 +1,7 @@
+{
+    "diagnostics.globals": [
+        "P",
+        "describe",
+        "it"
+    ]
+}

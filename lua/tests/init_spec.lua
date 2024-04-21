@@ -1,0 +1,5 @@
+describe("simple-popup", function()
+  it("should be truthy", function ()
+    assert.are.same(true, true)
+  end)
+end)
